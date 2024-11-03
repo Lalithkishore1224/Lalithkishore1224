@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/lalithkishore-bo/lalithkishore-bo/master/codingisfun_banner.png)]
+ 
 <h2 align="center">I am passionate about finding ways to use Python  </h3>
 #  👋 Hi, **I’m LALITHKISHORE** :
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
