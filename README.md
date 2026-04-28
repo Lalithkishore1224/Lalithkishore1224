@@ -119,7 +119,7 @@ print(me.current_mission())
 ### 🛠️ Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,bash,vim&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,vim&perline=7&theme=dark" />
 </p>
 
 ### 🌱 Currently Exploring
