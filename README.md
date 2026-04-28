@@ -181,7 +181,7 @@ print(me.current_mission())
   <img src="https://img.shields.io/badge/INSTAGRAM-LALITH___LK-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D1A" />
 </a>
 &nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:kishorelalith194@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-REACH_ME-84ADFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A" />
 </a>
 </p>
