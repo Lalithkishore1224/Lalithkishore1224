@@ -31,7 +31,7 @@
 ---
 
 ## Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lalith_Kishore-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lalith-kishore-453a70330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lalith_Kishore-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lalithkishore-c-453a70330/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lalithkishore1224-181717?style=flat-square&logo=github)](https://github.com/Lalithkishore1224)
 [![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=flat-square&logo=gmail)](mailto:kishorelalith194@gmail.com)
 
