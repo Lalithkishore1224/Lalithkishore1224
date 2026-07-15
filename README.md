@@ -1,5 +1,5 @@
 # Lalithkishore C
-3rd-year B.E. CSE student at Dr. Mahalingam College of Engineering and Technology (Dr. MCET), Pollachi · CGPA 8.7 · Graduating 2028
+3rd-year B.E. CSE student at Dr. Mahalingam College of Engineering and Technology (Dr. MCET), Pollachi · CGPA 8.4 · Graduating 2028
 
 **Software Development Intern** @ Thinksolv (Coimbatore)  
 **Member** @ Science Maths and Technology (SMT) Club
@@ -10,7 +10,7 @@
 | Project | Stack | Status |
 | --- | --- | --- |
 | **SACL PMS** — QC digitization for Sakthi Auto Components | Java, Spring Boot, MySQL, Docker | ✅ Live (2025) |
-| **AdReduce** — YouTube Ad Remover with markdown note-taking | JavaScript, Chrome Extensions API | ✅ Completed (Technofest'25 Winner) |
+| **AdReduce** — YouTube Ad Remover with markdown note-taking | JavaScript, Chrome Extensions API | ✅ Completed (Technofest'25 Hackathon Winner) |
 
 ---
 
