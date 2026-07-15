@@ -1,7 +1,7 @@
 # Lalithkishore C
 3rd-year B.E. CSE student at Dr. Mahalingam College of Engineering and Technology (Dr. MCET), Pollachi · CGPA 8.7 · Graduating 2028
 
-**Software Development Intern** @ Hexaware Technologies (Bangalore)  
+**Software Development Intern** @ Thinksolv (Coimbatore)  
 **Member** @ Science Maths and Technology (SMT) Club
 
 ---
@@ -11,14 +11,12 @@
 | --- | --- | --- |
 | **SACL PMS** — QC digitization for Sakthi Auto Components | Java, Spring Boot, MySQL, Docker | ✅ Live (2025) |
 | **AdReduce** — YouTube Ad Remover with markdown note-taking | JavaScript, Chrome Extensions API | ✅ Completed (Technofest'25 Winner) |
-| **Spring Boot Training** — Enterprise application backend labs | Java, Spring Boot, MySQL | 🔨 Active |
-| **Core Java Training** — Object-Oriented Programming and Java paradigms | Java, OOPs | 🔨 Active |
 
 ---
 
 ## Skills
 **Languages:** Java · Python · C++ · SQL · JavaScript  
-**Backend & Web:** Spring Boot · Node.js · Express.js · REST APIs · HTML5 · CSS3  
+**Backend & Web:** Spring Boot · React · Node.js · Express.js · REST APIs  
 **Databases:** MySQL · MongoDB  
 **Tools & Cloud:** Git · Docker · AWS · Linux  
 **Soft Skills:** Problem-Solving · Analytical Thinking · Root Cause Analysis
